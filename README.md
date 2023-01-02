@@ -1,6 +1,6 @@
 # DICE PROJECT
 
-I have used vite and react to create this simple application. There are two die components and each will shake and get a random number between 1 and 6, when clicked on the button. Check your luck! You won't be able to click again the button so wait for a second to check your luck and do it again. I have developed the app on GitHub so you can check it out.
+I have used vite and react to create this simple application. This exercise practices working with props, defaultProps, state, and simple click events in React. There is a die component and a rolldice component. Dice will shake and get a random number between 1 and 6, when clicked on the button. Check your luck!
 
 ## Demo
 
